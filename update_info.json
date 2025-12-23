@@ -10,9 +10,7 @@
   ],
   "excluded_files": [
     "version.json",
-    "config.json",
-    "settings.ini",
-    "logs/*",
-    "backup/*"
+    ".interface/*",
+    "static/*"
   ]
 }
