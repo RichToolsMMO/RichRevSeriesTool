@@ -10,7 +10,7 @@
   ],
   "excluded_files": [
     "version.json",
-    ".interface/*",
-    "static/*"
+    ".interface",
+    "static*"
   ]
 }
