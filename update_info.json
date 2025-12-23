@@ -9,7 +9,7 @@
     }
   ],
   "excluded_files": [
-    "userdata.db",
+    "version.json",
     "config.json",
     "settings.ini",
     "logs/*",
